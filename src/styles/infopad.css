@@ -1,0 +1,15 @@
+
+.infopad-card {
+  border: none;
+  display: grid;
+  grid-template-columns: 50px 80%;
+  padding-left: 5%;
+}
+
+.infopad-card img {
+  padding: 10px;
+  border: 2px solid lightgray;
+  width: 50px;
+  height: 50px;
+  align-self: center;
+}

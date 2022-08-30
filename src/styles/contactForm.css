@@ -1,0 +1,16 @@
+.contactForm {
+  border-radius: 20px;
+}
+
+.form-input {
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+  border-bottom: solid 2px white;
+}
+
+.form-input:focus {
+  background-color: transparent;
+  border: none;
+  border-bottom: solid 2px grey;
+}
