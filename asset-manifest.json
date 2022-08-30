@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/okoprom/static/css/main.15828dcc.css",
+    "main.js": "/okoprom/static/js/main.2de5de31.js",
+    "static/media/item1.png": "/okoprom/static/media/item1.6c7c8828786a426e1658.png",
+    "static/media/item2.png": "/okoprom/static/media/item2.a79fd9bedaa41bea1394.png",
+    "static/media/item3.png": "/okoprom/static/media/item3.c86378fc608e01d997c9.png",
+    "index.html": "/okoprom/index.html",
+    "main.15828dcc.css.map": "/okoprom/static/css/main.15828dcc.css.map",
+    "main.2de5de31.js.map": "/okoprom/static/js/main.2de5de31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15828dcc.css",
+    "static/js/main.2de5de31.js"
+  ]
+}
